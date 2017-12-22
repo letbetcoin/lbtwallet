@@ -1,0 +1,6 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "beautify.tabSize": 2,
+  "vetur.format.defaultFormatter.html": "js-beautify-html"
+}
