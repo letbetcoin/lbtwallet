@@ -11,7 +11,7 @@ LBTWallet is a free, open-source, client-side tool for easily & securely interac
     - amount=[number]
     - data=[hex data]
     - gasLimit=[number]
-    - Example: https://dev.wallet.let.bet/#/send-lbt?amount=10000&address=0xF1e4254627bEFa12E699Fa46742166384708e424&data=736373646&gasLimit=100000
+    - Example: https://wallet.let.bet/#/send-lbt?amount=10000&address=0xF1e4254627bEFa12E699Fa46742166384708e424&data=736373646&gasLimit=100000
 
 ### Users (non-developers)
 
