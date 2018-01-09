@@ -4,5 +4,3 @@ module.exports = {
   ETHEREUM_PROVIDER: '"https://lbt.let.bet"',
   CURRENCY_UNIT: '"LBT"'
 }
-
-// ETHEREUM_PROVIDER: '"https://ropsten.libertas.network"'
